@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjali Garikapati!
+## 🚀 Passionate Developer | 🌍 Open Source Contributor | 📊 Data Enthusiast
 
-<!--
-**Anjaligarikapati/Anjaligarikapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me
+- 🔭 I’m currently working on [nothing rn](https://github.com/yourproject)
+- 🌱 I’m learning **React, Node.js, and Python
+- 💬 Ask me about **Web Development, GitHub, Open Source
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/anjali-garikapati-8b4a60208/))
 
-Here are some ideas to get you started:
+### 🔥 GitHub Stats
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjaligarikapati&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+- 💻 **Languages:** Python, JavaScript, C++
+- 🌐 **Frontend:** HTML, CSS, React.js, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js
+- 🛢 **Database:** MySQL, MongoDB
+- 🔧 **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect with Me
+[LinkedIn]((https://www.linkedin.com/in/anjali-garikapati-8b4a60208/))
